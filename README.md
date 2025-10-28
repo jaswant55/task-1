@@ -60,5 +60,14 @@ It provides APIs for authentication, user management, projects, and tasks.
 1. to run the script run command => npm run seed.
 
 
+# Feature list and known limitations
+1. first you can register the user with thier name, email and password
+2. then login with the email and password
+3. create the project for the particular user.
+4. user can edit, delete and view thier own project.
+5. project task detail is available on project details page. where the task of the particular project is show to the user.
+6. user can view/ delete and edit the task for the particular project.
+
+
 
 
